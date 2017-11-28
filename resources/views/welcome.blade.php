@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Frist Study!
+                    Laravel Frist Study! test one!!
                 </div>
 
                 <div class="links">
